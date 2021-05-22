@@ -1,0 +1,3 @@
+- 👋 Hi, I’m @thesanyam26
+- 👀 I’m interested in python
+- 🌱 I’m currently learning python
