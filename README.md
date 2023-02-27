@@ -1,3 +1,3 @@
 - 👋 Hi, I’m @thesanyam26
-- 👀 I’m interested in python
-- 🌱 I’m currently learning python
+- 👀 I’m interested in React.js
+- 🌱 I’m currently learning new things in React.js
