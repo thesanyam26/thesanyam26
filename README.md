@@ -1,3 +1,4 @@
-- 👋 Hi, I’m @thesanyam26
-- 👀 I’m interested in React.js
-- 🌱 I’m currently learning new things in React.js
+- 👋 Hi, I’m Sanyam Modi
+- React || NextJs || JavaScript || TypeScript || Node js
+- I'm Frontend developer at Kisna 
+ 
